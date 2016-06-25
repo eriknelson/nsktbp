@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "preserve",
+    "experimentalDecorators": true
+  },
+  "filesGlob": [
+    "./**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "config",
+    "dev_server.js"
+  ]
+}
